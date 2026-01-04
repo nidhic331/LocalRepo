@@ -1,0 +1,12 @@
+p {
+  color:rgb(0, 60, 255);
+  background-color: rgb(89, 222, 243);
+  height: 50px;
+  width: 250px;
+  border-radius:50px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 50px;
+  border: 2px solid rgb(0, 60, 255);
+  box-shadow: 2px 2px 5px rgb(245, 85, 85);
+}
